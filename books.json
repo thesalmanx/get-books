@@ -1,0 +1,107 @@
+{
+  "1": {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Romance",
+    "isbn": "978-1503290563",
+    "reviews": [
+      {
+        "reviewer": "Bob",
+        "comment": "A delightful read filled with humor and romance."
+      },
+      "A beautiful exploration of love and society."
+    ]
+  },
+  "2": {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "genre": "Fantasy",
+    "isbn": "978-0547928227",
+    "reviews": [
+      {
+        "reviewer": "Charlie",
+        "comment": "An enchanting adventure that captures the imagination."
+      }
+    ]
+  },
+  "3": {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "isbn": "978-0451524935",
+    "reviews": [
+      {
+        "reviewer": "David",
+        "comment": "A chilling depiction of totalitarianism."
+      }
+    ]
+  },
+  "4": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "Fiction",
+    "isbn": "978-0061120084",
+    "reviews": [
+      {
+        "reviewer": "Eve",
+        "comment": "A powerful exploration of racial injustice."
+      }
+    ]
+  },
+  "5": {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "genre": "Adventure",
+    "isbn": "978-1503280786",
+    "reviews": [
+      {
+        "reviewer": "Frank",
+        "comment": "An epic tale of obsession and revenge."
+      }
+    ]
+  },
+  "6": {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "genre": "Historical Fiction",
+    "isbn": "978-1853260629",
+    "reviews": [
+      {
+        "reviewer": "Grace",
+        "comment": "A monumental work that explores the human condition."
+      }
+    ]
+  },
+  "7": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "Tragedy",
+    "isbn": "978-0743273565",
+    "reviews": [
+      {
+        "reviewer": "Hannah",
+        "comment": "A tragic story of love and loss in the Jazz Age."
+      }
+    ]
+  },
+  "8": {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "genre": "Fiction",
+    "isbn": "978-0316769488",
+    "reviews": [
+      {
+        "reviewer": "Ivy",
+        "comment": "A profound exploration of teenage angst."
+      }
+    ]
+  }
+}
